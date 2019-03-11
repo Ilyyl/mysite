@@ -1,4 +1,5 @@
 # -*- coding:utf-8 -*-
+# product_name: PyCharm
 # project_name: mysite
 # document_name: urls
 # author: Lucifer
